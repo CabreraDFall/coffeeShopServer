@@ -1,0 +1,224 @@
+{
+  "coffeeMenu": [
+    {
+      "id": 1,
+      "name": "Espresso",
+      "category": "Classic",
+      "price": "2.50",
+      "description": "A strong and rich shot of coffee with a bold flavor.",
+      "photo": "espresso.jpg",
+      "special": false,
+      "tag": "Strong",
+      "isFavorite": true
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "category": "Classic",
+      "price": "3.50",
+      "description": "A balanced mix of espresso, steamed milk, and foam.",
+      "photo": "cappuccino.jpg",
+      "special": true,
+      "tag": "Creamy",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "category": "Classic",
+      "price": "3.75",
+      "description": "Smooth and creamy with a perfect blend of espresso and steamed milk.",
+      "photo": "latte.jpg",
+      "special": false,
+      "tag": "Smooth",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Mocha",
+      "category": "Chocolate",
+      "price": "4.00",
+      "description": "A delicious blend of chocolate, espresso, and steamed milk.",
+      "photo": "mocha.jpg",
+      "special": true,
+      "tag": "Chocolatey",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Macchiato",
+      "category": "Classic",
+      "price": "3.25",
+      "description": "Espresso marked with a small amount of steamed milk.",
+      "photo": "macchiato.jpg",
+      "special": false,
+      "tag": "Bold",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Flat White",
+      "category": "Classic",
+      "price": "3.50",
+      "description": "A smooth espresso with a velvety microfoam.",
+      "photo": "flat_white.jpg",
+      "special": true,
+      "tag": "Velvety",
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "Americano",
+      "category": "Classic",
+      "price": "2.75",
+      "description": "Espresso diluted with hot water for a milder flavor.",
+      "photo": "americano.jpg",
+      "special": false,
+      "tag": "Mild",
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "Affogato",
+      "category": "Dessert",
+      "price": "4.50",
+      "description": "A scoop of vanilla ice cream drowned in a shot of hot espresso.",
+      "photo": "affogato.jpg",
+      "special": true,
+      "tag": "Indulgent",
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "name": "Cold Brew",
+      "category": "Cold",
+      "price": "3.50",
+      "description": "Smooth and refreshing coffee brewed cold for 12 hours.",
+      "photo": "cold_brew.jpg",
+      "special": false,
+      "tag": "Refreshing",
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "name": "Nitro Cold Brew",
+      "category": "Cold",
+      "price": "4.00",
+      "description": "Cold brew infused with nitrogen for a creamy texture.",
+      "photo": "nitro_cold_brew.jpg",
+      "special": true,
+      "tag": "Creamy",
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "name": "Iced Latte",
+      "category": "Cold",
+      "price": "3.75",
+      "description": "Chilled espresso with cold milk and ice.",
+      "photo": "iced_latte.jpg",
+      "special": false,
+      "tag": "Chilled",
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "name": "Iced Americano",
+      "category": "Cold",
+      "price": "2.75",
+      "description": "Chilled espresso with cold water and ice.",
+      "photo": "iced_americano.jpg",
+      "special": false,
+      "tag": "Light",
+      "isFavorite": false
+    },
+    {
+      "id": 13,
+      "name": "Iced Mocha",
+      "category": "Cold",
+      "price": "4.25",
+      "description": "Cold mocha with chocolate, espresso, and milk over ice.",
+      "photo": "iced_mocha.jpg",
+      "special": true,
+      "tag": "Decadent",
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "name": "Caramel Macchiato",
+      "category": "Specialty",
+      "price": "4.00",
+      "description": "Espresso with steamed milk, vanilla, and caramel drizzle.",
+      "photo": "caramel_macchiato.jpg",
+      "special": true,
+      "tag": "Sweet",
+      "isFavorite": false
+    },
+    {
+      "id": 15,
+      "name": "Café au Lait",
+      "category": "Classic",
+      "price": "3.00",
+      "description": "Brewed coffee with steamed milk.",
+      "photo": "cafe_au_lait.jpg",
+      "special": false,
+      "tag": "Classic",
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "name": "Irish Coffee",
+      "category": "Alcoholic",
+      "price": "5.50",
+      "description": "Coffee with Irish whiskey, sugar, and topped with cream.",
+      "photo": "irish_coffee.jpg",
+      "special": true,
+      "tag": "Rich",
+      "isFavorite": false
+    },
+    {
+      "id": 17,
+      "name": "Cortado",
+      "category": "Classic",
+      "price": "3.00",
+      "description": "Equal parts espresso and steamed milk for a strong yet smooth drink.",
+      "photo": "cortado.jpg",
+      "special": false,
+      "tag": "Balanced",
+      "isFavorite": false
+    },
+    {
+      "id": 18,
+      "name": "Turkish Coffee",
+      "category": "Specialty",
+      "price": "3.50",
+      "description": "Rich, unfiltered coffee with a strong flavor, often sweetened.",
+      "photo": "turkish_coffee.jpg",
+      "special": true,
+      "tag": "Intense",
+      "isFavorite": false
+    },
+    {
+      "id": 19,
+      "name": "Vietnamese Iced Coffee",
+      "category": "Cold",
+      "price": "4.00",
+      "description": "Strong coffee with sweetened condensed milk over ice.",
+      "photo": "vietnamese_iced_coffee.jpg",
+      "special": true,
+      "tag": "Sweetened",
+      "isFavorite": false
+    },
+    {
+      "id": 20,
+      "name": "Flat White",
+      "category": "Classic",
+      "price": "3.75",
+      "description": "Espresso with microfoam milk for a rich, smooth texture.",
+      "photo": "flat_white.jpg",
+      "special": true,
+      "tag": "Rich",
+      "isFavorite": false
+    }
+  ]
+}
